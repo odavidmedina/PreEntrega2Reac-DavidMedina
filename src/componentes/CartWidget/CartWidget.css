@@ -1,0 +1,16 @@
+.cart-widget {
+    display: flex;
+    align-items: center;
+    background-color: rgb(97, 97, 97);
+    gap: 10px;
+    padding: 10px;
+}
+
+.cart-widget span {
+    font-size: 1.5rem;
+}
+
+.cart-widget svg {
+    width: 2rem;
+    height: 2rem;
+}
